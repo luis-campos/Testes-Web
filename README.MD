@@ -1,6 +1,6 @@
 # Testes automatizados Web
 
-## Esse foi criado apenas para aprender alguns conceitos de teste automatizador em web, utilizando cucumber e ruby.
+## Esse projeto foi criado apenas para aprender alguns conceitos de teste automatizador em web, utilizando cucumber e ruby.
 
 # Pré-requisitos e como rodar a aplicação/testes
 
